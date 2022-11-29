@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    color: black;
+    font-family: Comic Sans MS;
+}
+p{
+    font-size: 30;
+}
+li{
+    text-align: left;
+    font-size: 20;
+}
+i{
+    font-size: 25;
+}
